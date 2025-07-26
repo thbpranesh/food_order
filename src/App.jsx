@@ -1,5 +1,5 @@
 import NavBar from "./NavBar.jsx"
-import Body from "./body.jsx";
+import Body from "./Body.jsx";
 import Contact from "./components/contact.jsx";
 import About from "./components/About.jsx";
 
