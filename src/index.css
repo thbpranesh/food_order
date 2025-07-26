@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 85px;
+    border-radius: 60px;
+    padding: 20px;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    justify-content: space-between;
+    background-color: rgb(204, 23, 23);
+    padding: 2px;
+}
+.topic{
+    display: flex;
+    align-items: center;
+    gap: 6vw;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style: bold;
+
+}
+.body{
+    padding: 10vh 10vw;
+}
+.card_container{
+    margin-top: 10vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 50px;
+}
+.carding{
+    padding: 20px;
+    background-color:rgb(166, 189, 112);
+    gap: 20px;
+    justify-content: space-between;
+    border-radius: 20px;
+    align-items: center;
+
+}
+.picture{
+    width: 200px;
+    border-radius: 20px;
+    
+    
+}
+.click{
+    display: flex;
+    align-items: center;
+}
+.topic{
+    color: rgb(248, 246, 244);
+}
